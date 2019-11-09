@@ -5,7 +5,7 @@ import java.util.logging.Logger;
 
 /**
  *
- * @author M4NU3L
+ * @author Fam. Fernández: Pablo Fernández
  */
 public class VentanaPractica3 extends javax.swing.JFrame {
 
